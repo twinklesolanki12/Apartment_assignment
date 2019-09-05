@@ -1,0 +1,30 @@
+---
+buildings:
+- address: Platinum Plaza
+- address: Dreams Akruti
+- address: BT landmark
+- address: Global Park
+apartments:
+- bedrooms: 3
+  bathrooms: 3
+  number: 
+- bedrooms: 2
+  bathrooms: 2
+  number: 
+- bedrooms: 3
+  bathrooms: 2
+  number: 
+- bedrooms: 4
+  bathrooms: 2
+  number: 
+tenants:
+- credit_score: 740
+  name: Twinkle
+- credit_score: 540
+  name: Ayu
+- credit_score: 1200
+  name: Akash
+- credit_score: 600
+  name: Prashu
+- credit_score: 940
+  name: swati

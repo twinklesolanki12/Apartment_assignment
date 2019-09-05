@@ -1,0 +1,55 @@
+buildings:
+  - building1:
+      address: "Platinum Plaza"
+  - building2:
+      address: "Dreams Akruti"
+  - building3:
+      address: "BT landmark"
+  - building4:
+      address: "Global Park"
+tenants:
+  - tenant1:
+      name: "Twinkle"
+      age: 22
+      credit_score: 740
+  - tenant2:
+      name: "Ayu"
+      age: 23
+      credit_score: 540
+  - tenant3:
+      name: "Akash"
+      age: 24
+      credit_score: 1200
+  - tenant4:
+      name: "Prashu"
+      age: 22
+      credit_score: 600
+  - tenant5:
+      name: "swati"
+      age: 22
+      credit_score: 940
+apartments:
+  - apartment1:
+      apartment_numbers: 3
+      square_footage: 700
+      rent: 1500
+      number_of_bedrooms: 3
+      number_of_bathrooms: 3
+  - apartment2:
+      apartment_numbers: 1
+      square_footage: 500
+      rent: 1000
+      number_of_bedrooms: 2
+      number_of_bathrooms: 2
+  - apartment3:
+      apartment_numbers: 2
+      square_footage: 800
+      rent: 1800
+      number_of_bedrooms: 3
+      number_of_bathrooms: 2
+  - apartment4:
+      apartment_numbers: 4
+      square_footage: 400
+      rent: 1200
+      number_of_bedrooms: 4
+      number_of_bathrooms: 2
